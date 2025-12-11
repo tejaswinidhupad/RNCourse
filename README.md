@@ -55,7 +55,8 @@ I built this while exploring the basics of mobile development and getting famili
 - Expo
 - JavaScript (ES6+)
 
-  ---
+
+---
   
   
 ## 🙌 Credits
