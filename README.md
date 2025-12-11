@@ -27,7 +27,8 @@ I built this while exploring the basics of mobile development and getting famili
   - React Native DevTools
   - Console logging
   - Error boundaries and debugging patterns
-- Structuring components for scalability and readability.
+  - Structuring components for scalability and readability.
+
 
 ---
 
@@ -44,7 +45,8 @@ I built this while exploring the basics of mobile development and getting famili
 3. **Run on device or emulator**
 - Scan the QR code using Expo Go (iOS/Android)
 
-   ---
+
+---
 
   
 ## 🛠️ Tech Stack
