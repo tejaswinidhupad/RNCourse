@@ -42,17 +42,19 @@ I built this while exploring the basics of mobile development and getting famili
    npm start
 
 3. **Run on device or emulator**
-   Scan the QR code using Expo Go (iOS/Android)
+- Scan the QR code using Expo Go (iOS/Android)
 
    ---
 
+  
 ## 🛠️ Tech Stack
 
-React Native
-Expo
-JavaScript (ES6+)
+- React Native
+- Expo
+- JavaScript (ES6+)
 
   ---
+  
   
 ## 🙌 Credits
 This project is inspired by the React Native learning materials from Academind and their Practical Guide.
