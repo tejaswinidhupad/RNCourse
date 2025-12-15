@@ -27,6 +27,6 @@ const styles = StyleSheet.create({
   },
   goalText: {
     color: 'white',
-    padding: 8,
+    padding: 9,
   },
 });
